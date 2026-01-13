@@ -1,4 +1,4 @@
-# Smart-Read — Conversational Video Analytics
+# Conversational Video Analytics
 
 A Streamlit-based system that converts long YouTube videos into concise, decision-ready summaries using Gemini 1.5 Flash.
 
